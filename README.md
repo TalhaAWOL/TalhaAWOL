@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Java Spring, Network Security, Computer Architecture, Systems Design**
 
-- 👨‍💻 All of my projects are available at (https://awol.tech/Portfolio/Talha)
+- 👨‍💻 All of my projects are available at (https://www.awoldigital.net/)
 
 - 💬 Ask me about **MERN, Java, Python, SQL**
 
